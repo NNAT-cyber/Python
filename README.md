@@ -1,2 +1,2 @@
 # Python
-Python projects from my Python learning career
+Python projects from my Python learning career.
