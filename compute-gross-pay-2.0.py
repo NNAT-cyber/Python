@@ -1,7 +1,7 @@
 h1 = input("Enter working hours: ")
 
 try :
-    h1 = float(h1)
+    fh1 = float(h1)
 
 except :
     print("Please enter a numeric number.")
@@ -10,14 +10,12 @@ except :
 r1 = input("Enter working rates: ")
 
 try :
-    r1 = float(r1)
+    fr1 = float(r1)
 
 except :
     print("Please enter a numeric number.")
     quit()
 
-fh1 = float(h1)
-fr1 = float(r1)
 
 if fh1 <= 40 :
     
